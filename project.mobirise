@@ -22,8 +22,12 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 11,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 16,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
@@ -45,13 +49,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#0b1c46"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#0b1c46"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#0b1c46"
             },
             ".link": {
               "font-size": "0.875rem"
@@ -66,19 +70,19 @@
               "background": "@primaryColor"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#ffffff"
+              "color": "#0b1c46"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1a242f"
+              "background": "#cfd9db"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#273646!important"
+              "background": "#e3e9eb!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2c3e50"
+              "background": "#ecf0f1"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#0b1c46",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -98,10 +102,10 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#2c3e50",
+            "bgColor": "#ecf0f1",
             "fontSize": 0.875,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#0b1c46",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -113,7 +117,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/msinewtagline-269x128.png",
+              "src": "@PROJECT_PATH@/assets/images/msilogo-345x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -126,8 +130,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Maritime Solutions</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">WHAT'S HOT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">NEW BOATS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Achilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">A/B</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Walker Bay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Highfield</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">USED BOATS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Brokerage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Trade-ins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Consignment</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ENGINES</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">HONDA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">YAMAHA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">TOHATSU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">SERVICE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">SUBSCRIBE</a></li>"
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.maritimesolutionsusa.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Maritime Solutions</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">WHAT'S HOT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SOLUTIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">NEW BOATS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Achilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">A/B</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Walker Bay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Highfield</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">USED BOATS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"boats.html\">Brokerage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Trade-ins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Consignment</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ENGINES</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">HONDA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">YAMAHA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">TOHATSU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">SERVICE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">SUBSCRIBE</a></li>"
         },
         {
           "alias": "colorm/components",
@@ -135,11 +139,19 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            },
+            ".mbr-section-text": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "9",
+            "timeout": "10",
             "slides": [
               {
                 "active": true,
@@ -155,7 +167,7 @@
                 "showText": true,
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOATS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SERVICE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FUN</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"boats.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOATS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"http://www.maritimesolutionsusa.com\" data-toolbar=\"-mbrBtnMove\">SERVICE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://www.freedomboatclubri.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FUN</a>"
               },
               {
                 "active": false,
@@ -170,7 +182,7 @@
                 "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEW BOATS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BROKERAGE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PREOWNED</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"boats.html\" data-toolbar=\"-mbrBtnMove\">NEW BOATS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"boats.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BROKERAGE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"boats.html\" data-toolbar=\"-mbrBtnMove\">PREOWNED</a>"
               },
               {
                 "active": false,
@@ -197,9 +209,9 @@
                 "showTitle": true,
                 "title": "SERVICE EXPERTS",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "fdfasdfasdfasdfadsfasdfasdfdfsdafasdfgdfgdgfgadfgore.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOATS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ENGINES</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.maritimesolutionsusa.com\" data-toolbar=\"-mbrBtnMove\">BOATS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://www.maritimesolutionsusa.com\" data-toolbar=\"-mbrBtnMove\">ENGINES</a>"
               },
               {
                 "active": false,
@@ -213,7 +225,7 @@
                 "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Wickford</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Newport</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.maritimesolutionsusa.com\" data-toolbar=\"-mbrBtnMove\">Wickford</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://www.maritimesolutionsusa.com\" data-toolbar=\"-mbrBtnMove\">Newport</a>"
               }
             ],
             "fullScreen": true,
@@ -223,12 +235,7 @@
           "_anchor": "slider-a",
           "articleLayout": false,
           "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">",
-          "_styles": {
-            ".btn": {
-              "font-size": "18px"
-            }
-          }
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">"
         },
         {
           "_styles": {
@@ -262,7 +269,7 @@
             "paddingBottom": 2,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fun-on-boat2-2000x1761.jpg",
             "bgColor": "#2c3e50",
             "bgColorRadio": false,
             "bgVideo": {
@@ -270,7 +277,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.9,
+            "overlayOpacity": "0.6",
             "overlayColor": "#2c3e50",
             "showTitle": true,
             "columns": 4,
@@ -286,7 +293,7 @@
               "src": "@PROJECT_PATH@/assets/images/boats-600x878.png",
               "class": "features-img",
               "width": 600,
-              "link": "",
+              "link": "http://www.maritimesolutionsusa.com",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -470,7 +477,7 @@
           "subtitle1": "WE'VE BEEN EARNING HAPPY CUSTOMERS&nbsp;",
           "title1": "FOR 20 YEARS",
           "caption1": "We've been in the business of delivering fun on the water for a long time.; Our sales expertise is always finding the best of the newest boats, while our service guys keep things running smoothly. From newbie and wannabe boaters to old hands, our wonderful and loyal customer base keeps us striving for excellence.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">learn more</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"http://www.maritimesolutionsusa.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">learn more</a>",
           "media1": {
             "image": {
               "src": "@THEME_PATH@/components/_images/notebook/nb11.png",
@@ -491,7 +498,7 @@
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/03.jpg",
+              "src": "@THEME_PATH@/components/_images/features/03.jpg",
               "class": ""
             }
           },
@@ -624,7 +631,213 @@
             }
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
-          "text": "Copyright (c) 2016 <a href=\"https://mobirise.com\">Mobirise</a>."
+          "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "boats.html": {
+      "settings": {
+        "title": "MSI Boats for sale",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_descr": "Demo Boat Page"
+      },
+      "components": [
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<iframe src=\"http://boaterbase.com/embed/boats?team=BRM70j6gVLCKy9PlElk1\" width=\"100%\" height=\"1020\">&amp;lt;noframes&amp;gt;&amp;lt;a href=\"http://boaterbase.com/boats?team=BRM70j6gVLCKy9PlElk1\"&amp;gt;Showing 29 Boats&amp;lt;/a&amp;gt;&amp;lt;/noframes&amp;gt;</iframe>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-f"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#0b1c46"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#0b1c46"
+            },
+            ".link, .dropdown-item": {
+              "color": "#0b1c46"
+            },
+            ".link": {
+              "font-size": "0.875rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.948rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#0b1c46"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#cfd9db"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e3e9eb!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ecf0f1"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#0b1c46",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-b",
+          "_params": {
+            "bgColor": "#ecf0f1",
+            "fontSize": 0.875,
+            "fontName": {},
+            "fontColor": "#0b1c46",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/msilogo-345x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.maritimesolutionsusa.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Maritime Solutions</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">WHAT'S HOT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SOLUTIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">NEW BOATS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Achilles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">A/B</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Walker Bay</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Highfield</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">USED BOATS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"boats.html\">Brokerage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Trade-ins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Consignment</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ENGINES</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">HONDA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">YAMAHA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">TOHATSU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">SERVICE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">SUBSCRIBE</a></li>"
+        },
+        {
+          "_styles": {},
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/colorm_logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "titled1": "Private policy",
+          "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
+          "followtext": "follow us",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer9",
+          "_anchor": "footer9-c",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444",
+            "showTitles": true
+          },
+          "title1": "product",
+          "text11": "Popular",
+          "text12": "Trending",
+          "text13": "Catalog",
+          "text14": "Awesome",
+          "text15": "Best",
+          "title2": "company",
+          "text21": "Press",
+          "text22": "Features",
+          "text23": "Mission",
+          "text24": "Strategy",
+          "text25": "Works",
+          "title3": "Learn more",
+          "text31": "Support",
+          "text32": "Developers",
+          "text33": "Service",
+          "text34": "Starter pack",
+          "text35": "FAQ",
+          "title4": "product",
+          "text41": "Popular",
+          "text42": "Trending",
+          "text43": "Catalog",
+          "text44": "Awesome",
+          "text45": "Best",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "form": {
+            "action": "joe@sayitright.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email"
+              },
+              "name": {
+                "title": "Name",
+                "customTitle": "Name*",
+                "visible": false
+              },
+              "phone": {
+                "title": "Phone",
+                "customTitle": "Phone",
+                "visible": false
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "text": "Copyright (c) 2016 Mobirise."
         }
       ]
     }
