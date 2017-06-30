@@ -167,7 +167,7 @@
                 "showText": true,
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"boats.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOATS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"http://www.maritimesolutionsusa.com\" data-toolbar=\"-mbrBtnMove\">SERVICE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://www.freedomboatclubri.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FUN</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.maritimesolutionsusa.com/pages/boats4sale\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOATS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"http://www.maritimesolutionsusa.com\" data-toolbar=\"-mbrBtnMove\">SERVICE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://www.freedomboatclubri.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FUN</a>"
               },
               {
                 "active": false,
@@ -182,7 +182,7 @@
                 "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"boats.html\" data-toolbar=\"-mbrBtnMove\">NEW BOATS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"boats.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BROKERAGE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"boats.html\" data-toolbar=\"-mbrBtnMove\">PREOWNED</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"boats.html\" data-toolbar=\"-mbrBtnMove\">NEW BOATS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://www.maritimesolutionsusa.com/pages/boats4sale\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BROKERAGE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"boats.html\" data-toolbar=\"-mbrBtnMove\">PREOWNED</a>"
               },
               {
                 "active": false,
